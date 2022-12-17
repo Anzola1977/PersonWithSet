@@ -30,18 +30,46 @@ public class Main {
         Person kirill = new Person(256789,"Kirill", 12);
         Person anastasia = new Person(256789,"Anastasia", 15);
         Person maria = new Person(256789,"Maria", 68);
+        Person marcello = new Person(256790,"Maria", 68);
         Person vera = new Person(256789,"Vera", 69);
-        HashMap<Object, Integer> flat = new LinkedHashMap<>();
+        HashMap<Person, Integer> flat = new LinkedHashMap<>();
         flat.put(andrew, 100000000);
         flat.put(victoria, 80000000);
         flat.put(kirill, 10000000);
         flat.put(anastasia, 10000000);
         flat.put(maria, 1000000);
+        flat.put(marcello, 2000000);
+        flat.put(new Person(17, "John", 21), 4);
+        flat.put(new Person(17, "John", 21), 28);
+
         flat.put(vera, 1000000);
-        //System.out.println(flat);
+//        System.out.println(flat);
         System.out.println(flat.keySet());
-        System.out.println(flat.get(maria));
+//        System.out.println(flat.get(maria));
+//        System.out.println(maria.hashCode());
+//        flat.put(maria, 5000000);
+//        System.out.println(flat.get(maria));
+//        System.out.println(flat.get(marcello));
+//        System.out.println(marcello.hashCode());
+
+        Map<String, String> map = new HashMap<>();
+        map.put("mother", "Mary");
+        map.put("father", "John");
+        map.put("uncle", "Smith");
+        map.put("grandfather", "Adam");
+        map.put("brother", "Sam");
 
 
+        Map<String, String> newMap = new TreeMap<>(map);
+        System.out.println(newMap);
+        newMap.put("sister", "Kelly");
+        System.out.println(newMap);
+        System.out.println(map.containsKey("father"));
+        System.out.println(map.get("father"));
+        for (String s : newMap.keySet()) {
+            if (s.equals("father")) {
+                System.out.println(s + " 1977");
+            }
+        }
     }
 }

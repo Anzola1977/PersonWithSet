@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6fbb0bb-ac4f-4898-a154-4a449d1dc688" name="Changes" comment="Commit with set">
-      <change afterPath="$PROJECT_DIR$/src/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainSet.java" afterDir="false" />
+    <list default="true" id="c6fbb0bb-ac4f-4898-a154-4a449d1dc688" name="Changes" comment="Commit with set and map">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -27,7 +24,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -60,7 +57,8 @@
       <workItem from="1670944915783" duration="5125000" />
       <workItem from="1671023491903" duration="6284000" />
       <workItem from="1671059895636" duration="28000" />
-      <workItem from="1671106839889" duration="4609000" />
+      <workItem from="1671106839889" duration="4640000" />
+      <workItem from="1671272765043" duration="8143000" />
     </task>
     <task id="LOCAL-00001" summary="Commit with set">
       <created>1670965577779</created>
@@ -69,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670965577779</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit with set and map">
+      <created>1671151377941</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671151377941</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit with set" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit with set" />
+    <MESSAGE value="Commit with set and map" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit with set and map" />
   </component>
 </project>
