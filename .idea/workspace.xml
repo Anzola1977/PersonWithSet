@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6fbb0bb-ac4f-4898-a154-4a449d1dc688" name="Changes" comment="Commit with set and map">
+    <list default="true" id="c6fbb0bb-ac4f-4898-a154-4a449d1dc688" name="Changes" comment="Commit with set and map2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,9 @@
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,7 +61,13 @@
       <workItem from="1671023491903" duration="6284000" />
       <workItem from="1671059895636" duration="28000" />
       <workItem from="1671106839889" duration="4640000" />
-      <workItem from="1671272765043" duration="8143000" />
+      <workItem from="1671272765043" duration="8216000" />
+      <workItem from="1671878246738" duration="4678000" />
+      <workItem from="1671991160283" duration="2054000" />
+      <workItem from="1672002259635" duration="200000" />
+      <workItem from="1672002473879" duration="136000" />
+      <workItem from="1672065964130" duration="650000" />
+      <workItem from="1672145052916" duration="635000" />
     </task>
     <task id="LOCAL-00001" summary="Commit with set">
       <created>1670965577779</created>
@@ -74,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671151377941</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit with set and map2">
+      <created>1671287018180</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671287018180</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +110,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit with set" />
     <MESSAGE value="Commit with set and map" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit with set and map" />
+    <MESSAGE value="Commit with set and map2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit with set and map2" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

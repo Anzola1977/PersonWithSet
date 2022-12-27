@@ -1,6 +1,6 @@
 import java.util.Objects;
 
-public class Person {
+public class Person implements Comparable<Person>{
 
         private final long id;
         private final String name;
@@ -10,6 +10,18 @@ public class Person {
         this.id = id;
         this.name = name;
         this.age = age;
+    }
+
+    public long getId() {
+        return id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public int getAge() {
+        return age;
     }
 
     @Override
@@ -32,5 +44,10 @@ public class Person {
                 ", name='" + name + '\'' +
                 ", age=" + age +
                 '}';
+    }
+
+    @Override
+    public int compareTo(Person o) {
+        return name.compareTo(o.name);
     }
 }
