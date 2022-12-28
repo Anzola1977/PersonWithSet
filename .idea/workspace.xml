@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6fbb0bb-ac4f-4898-a154-4a449d1dc688" name="Changes" comment="Commit with set and map2">
+    <list default="true" id="c6fbb0bb-ac4f-4898-a154-4a449d1dc688" name="Changes" comment="Last commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +65,8 @@
       <workItem from="1672002259635" duration="200000" />
       <workItem from="1672002473879" duration="136000" />
       <workItem from="1672065964130" duration="650000" />
-      <workItem from="1672145052916" duration="635000" />
+      <workItem from="1672145052916" duration="692000" />
+      <workItem from="1672225887853" duration="20000" />
     </task>
     <task id="LOCAL-00001" summary="Commit with set">
       <created>1670965577779</created>
@@ -90,7 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671287018180</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Last commit">
+      <created>1672177228574</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672177228574</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Last commit">
+      <created>1672177238470</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672177238470</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,7 +124,8 @@
     <MESSAGE value="Commit with set" />
     <MESSAGE value="Commit with set and map" />
     <MESSAGE value="Commit with set and map2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit with set and map2" />
+    <MESSAGE value="Last commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Last commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
